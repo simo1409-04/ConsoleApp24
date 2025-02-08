@@ -1,10 +1,9 @@
-﻿namespace ConsoleApp24
+﻿using System;
+
+class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            string name = "Ivan";
-        }
+        Console.WriteLine("Hello from the original commit!");
     }
 }
