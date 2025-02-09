@@ -4,8 +4,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Simeonsjsjjsjsjsjjs");
-        
+        Console.WriteLine("Vicky");
+        Console.WriteLine("Boiko");
 
     }
 }
